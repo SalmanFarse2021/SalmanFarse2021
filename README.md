@@ -1,12 +1,11 @@
 # Hi 👋, I'm Salman
 
-- 💻 Computer Science student interested in **Software Engineering & AI**
-- 🌐 Portfolio: https://your-portfolio-link
+- 💻 Computer Science student interested in **AI and Software Engineering**
+- 🌐 Portfolio: https://salmanfarse.com/
 - 📫 Email: mxf4149@mavs.uta.edu
-- ⚡ Fun fact: I build personal AI tools to automate my own workflows
 
 ## Connect with me
-<a href="https://linkedin.com/in/your-link">
+<a href="https://www.linkedin.com/in/md-salman-farse-558701247">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
